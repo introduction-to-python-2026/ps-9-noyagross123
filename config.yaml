@@ -1,2 +1,2 @@
 path: "my_newA_model.joblib"
-features: ['MDVP: Shimmer(dB)', 'PPE']
+features: ['MDVP:Shimmer(dB)', 'PPE']
